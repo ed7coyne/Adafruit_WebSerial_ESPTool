@@ -1,5 +1,3 @@
-# Adafruit ESPTool
+Based on the Adafruit esptool with some custom mods.
 
-A Web Serial tool for updating your ESP bootloader.
-
-A live copy of the tool is hosted here: https://adafruit.github.io/Adafruit_WebSerial_ESPTool/
+ https://ed7coyne.github.io/Adafruit_WebSerial_ESPTool/
